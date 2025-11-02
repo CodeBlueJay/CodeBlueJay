@@ -5,7 +5,7 @@
 - 📫 How to reach me: Discord, GitHub
 - 😄 Pronouns: He/Him/Bro/Dude
 ## Projects
-### [EvoSpin](https://github.com/CodeBlueJay/EvoSpin)
+### EvoSpin (No link cuz private-ed atm)
 Evospin is my Discord Bot oriented around RNG-based gambling🔥
 ## Links
 - [Portfolio (codebluejay.github.io)](https://codebluejay.github.io/)
