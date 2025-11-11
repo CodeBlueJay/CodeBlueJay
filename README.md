@@ -1,13 +1,12 @@
+![](https://komarev.com/ghpvc/?username=CodeBlueJay&style=for-the-badge&abbreviated=true)
+[![Discord server](https://img.shields.io/discord/911101094279675944?color=7489d5&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/FUt3q6dwJe)
 # 🟦⬛ CodeBlueJay
 - 👋 Hi, I’m @CodeBlueJay
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Java and C#.
 - 📫 How to reach me: Discord, GitHub
 - 😄 Pronouns: He/Him/Bro/Dude
-## Stats
-![](https://komarev.com/ghpvc/?username=CodeBlueJay&style=for-the-badge&abbreviated=true)
 
-[![Discord server](https://discord.com/api/guilds/911101094279675944/embed.png?style=banner2)](https://discord.gg/FUt3q6dwJe)
 ## Projects
 ### EvoSpin (No link cuz private-ed atm)
 Evospin is my Discord Bot oriented around RNG-based gambling🔥
