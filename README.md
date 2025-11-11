@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Java and C#.
 - 📫 How to reach me: Discord, GitHub
 - 😄 Pronouns: He/Him/Bro/Dude
+## Stats
+![](https://komarev.com/ghpvc/?username=CodeBlueJay&style=for-the-badge&abbreviated=true)
 ## Projects
 ### EvoSpin (No link cuz private-ed atm)
 Evospin is my Discord Bot oriented around RNG-based gambling🔥
