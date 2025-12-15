@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him/Bro/Dude
 
 ## Projects
-### EvoSpin (No link cuz private-ed atm)
+### [EvoSpin](https://github.com/CodeBlueJay/EvoSpin)
 Evospin is my Discord Bot oriented around RNG-based gambling🔥
 
 <!---
